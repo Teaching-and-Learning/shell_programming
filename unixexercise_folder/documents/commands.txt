@@ -1,1 +1,0 @@
-ls, cd, pwd, mv, rm, echo
