@@ -1,0 +1,18 @@
+Instructor Notes
+----------------
+Likely evidence-bearing files:
+- logs/auth/auth.log
+- logs/network/transfer.log
+- usb_drive/reports/device_note.txt
+- home/alice/Downloads/todo.txt
+- home/bob/Documents/incident_summary.txt
+
+Decoys / useful but not direct evidence:
+- home/analyst/notes/brainstorm.txt
+- operations/archive/old_inventory.txt
+- documents/notes.txt
+- data/search.txt  (contains UNIX but not part of incident challenge)
+
+More things students need to do:
+1. Run: bash scripts/tools/longrun.sh &
+2. Use ps to identify the PID.

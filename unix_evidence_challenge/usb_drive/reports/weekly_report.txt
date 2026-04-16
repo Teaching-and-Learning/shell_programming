@@ -1,0 +1,3 @@
+Weekly report draft
+No security issue is documented here.
+This file is a normal working file.

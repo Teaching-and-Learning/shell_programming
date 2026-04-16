@@ -1,0 +1,4 @@
+2026-04-14T09:15:11Z CONNECT host=fileshare.internal user=alice
+2026-04-14T09:15:22Z NOTICE outbound transfer started target=usb_drive
+2026-04-14T09:15:29Z ALERT exfil pattern matched for filename=grades.csv
+2026-04-14T09:15:41Z EVIDENCE transfer completed bytes=20480 destination=/media/usb_drive/reports/

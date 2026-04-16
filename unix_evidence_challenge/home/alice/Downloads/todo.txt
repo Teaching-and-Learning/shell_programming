@@ -1,0 +1,6 @@
+To do
+-----
+1. move copied grade file off the laptop
+2. delete shell history later
+3. avoid obvious names
+Note: unauthorized copy already done.

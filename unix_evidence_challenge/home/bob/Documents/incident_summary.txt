@@ -1,0 +1,3 @@
+Bob's note:
+Observed unusual USB activity around 09:15.
+Possible exfil to removable media. Preserve related files as EVIDENCE.

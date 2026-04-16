@@ -1,0 +1,13 @@
+Case Brief
+----------
+The student lab machine may contain traces of unauthorized copying of files.
+A quick review suggests that useful clues may be scattered across logs, notes,
+and a removable USB drive. You should preserve evidence files before making changes.
+
+Preservation target directory:
+  evidence_lockbox
+
+Possible clue words:
+  EVIDENCE
+  unauthorized
+  exfil

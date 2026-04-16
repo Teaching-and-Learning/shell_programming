@@ -1,0 +1,4 @@
+Apr 14 09:12:01 labhost sshd[4412]: Accepted password for alice from 10.0.0.24 port 55441 ssh2
+Apr 14 09:13:55 labhost sudo: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/cp /srv/research/grades.csv /media/usb_drive/reports/
+Apr 14 09:14:02 labhost audit: EVIDENCE possible unauthorized copy initiated by alice
+Apr 14 09:20:10 labhost sshd[4510]: Failed password for guest from 192.168.56.77 port 51112 ssh2

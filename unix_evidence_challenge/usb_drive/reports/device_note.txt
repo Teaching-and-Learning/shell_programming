@@ -1,0 +1,3 @@
+Technician note:
+User said the USB drive was only for backup, but the folder contains a copied report.
+Mark this as EVIDENCE and preserve it with the related logs.
