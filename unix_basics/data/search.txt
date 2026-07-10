@@ -1,0 +1,3 @@
+This file contains UNIX as a keyword.
+Unix commands help analysts inspect files quickly.
+Linux is UNIX-like and common in servers and cloud systems.

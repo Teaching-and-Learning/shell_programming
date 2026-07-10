@@ -1,0 +1,3 @@
+UNIX tools work well together.
+The shell lets us combine small commands into larger workflows.
+For cyber operations, grep and wc are useful for fast evidence review.

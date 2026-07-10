@@ -1,0 +1,5 @@
+INFO service started
+WARN failed login for admin
+WARN failed login for admin
+ERROR unauthorized access attempt
+INFO service stopped
