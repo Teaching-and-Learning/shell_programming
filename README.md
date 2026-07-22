@@ -1,6 +1,6 @@
 # APCV 320 Unix Commands and Shell Programming Playground
 
-This repository is a browser-based Unix command-line practice playground for APCV 320. It is designed to be imported into Replit so students can practice Unix commands and Bash scripting without installing Linux, macOS, WSL, or a virtual machine.
+This repository is a browser-based Unix command-line practice playground for APCV 320. It is designed to be imported into Replit so students can practice Unix commands and Bash scripting.  You can also download the repository and practice the commands and script writing using Linux, macOS, WSL, or a virtual machine.
 
 ## How to use in Replit
 
