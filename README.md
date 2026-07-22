@@ -14,17 +14,16 @@ ls -lF
 cat README_START_HERE.md
 ```
 
-4. Complete the activities in order.
-5. Use the `sandbox/` folders for safe copy, move, rename, and remove practice.
+4. Practice UNIX comands and shell script writing following the lecture and videos.
+
 
 ## Important safety rule
 
-Only use destructive commands such as `rm`, `rmdir`, and `mv` inside a `sandbox/` folder unless the instructions explicitly say otherwise.
+Only use destructive commands such as `rm`, `rmdir`, and `mv` inside a `sandbox/` folder as demonstrated in the lecture videos.
 
-## Folders
+## Folder highlight
 
 - `unix_basics/`: first command-line practice with navigation, search, copy, move, and remove commands.
-- `unix_evidence_challenge/`: cyber operations evidence-analysis scenario.
-- `scripts/`: sample Bash scripts.
+- `unix_evidence_challenge/`: cyber operations evidence-analysis scenario.  This is the folder used in both the topic lecture and assignment 7.
 
 ```
