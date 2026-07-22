@@ -1,6 +1,6 @@
 # Start Here
 
-Open the Replit **Shell** and try these commands first:
+After you have the shell_programming repository installed in your local system or Replit, you can open the Replit **Shell** or your local bash and try these commands first:
 
 ```bash
 pwd
