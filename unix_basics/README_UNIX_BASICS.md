@@ -1,6 +1,6 @@
 # Unix Basics Practice
 
-Use the Replit Shell for these tasks.
+You can pratice the below commands using the Replit Shell or any shell in your local system. 
 
 ## Part A: Navigation
 
@@ -28,7 +28,7 @@ Record the commands you used.
 
 ## Part D: Copy and move safely
 
-Use only the `sandbox/` folder for this part.
+Use only the `sandbox/` folder for this part. You can create a sandbox first under the unix_basics folder. 
 
 1. Copy `data/search.txt` into `sandbox/`.
 2. Rename the copy to `search_copy.txt`.
